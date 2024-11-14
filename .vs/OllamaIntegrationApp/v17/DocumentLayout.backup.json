@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learnDotNet8\\OllamaIntegrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9531C4C-8EB3-48B5-B73B-7A7F01467DB3}|OllamaIntegrationApp.csproj|d:\\learndotnet8\\ollamaintegrationapp\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A9531C4C-8EB3-48B5-B73B-7A7F01467DB3}|OllamaIntegrationApp.csproj|solutionrelative:readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9531C4C-8EB3-48B5-B73B-7A7F01467DB3}|OllamaIntegrationApp.csproj|d:\\learndotnet8\\ollamaintegrationapp\\ollamalog\\logregister.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A9531C4C-8EB3-48B5-B73B-7A7F01467DB3}|OllamaIntegrationApp.csproj|solutionrelative:ollamalog\\logregister.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9531C4C-8EB3-48B5-B73B-7A7F01467DB3}|OllamaIntegrationApp.csproj|d:\\learndotnet8\\ollamaintegrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9531C4C-8EB3-48B5-B73B-7A7F01467DB3}|OllamaIntegrationApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9531C4C-8EB3-48B5-B73B-7A7F01467DB3}|OllamaIntegrationApp.csproj|d:\\learndotnet8\\ollamaintegrationapp\\ollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9531C4C-8EB3-48B5-B73B-7A7F01467DB3}|OllamaIntegrationApp.csproj|solutionrelative:ollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1876031443:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\learnDotNet8\\OllamaIntegrationApp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\learnDotNet8\\OllamaIntegrationApp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-14T11:24:43.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OllamaClient.cs",
+              "DocumentMoniker": "D:\\learnDotNet8\\OllamaIntegrationApp\\OllamaClient.cs",
+              "RelativeDocumentMoniker": "OllamaClient.cs",
+              "ToolTip": "D:\\learnDotNet8\\OllamaIntegrationApp\\OllamaClient.cs",
+              "RelativeToolTip": "OllamaClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:00:43.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\learnDotNet8\\OllamaIntegrationApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\learnDotNet8\\OllamaIntegrationApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:45:28.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logregister.log",
+              "DocumentMoniker": "D:\\learnDotNet8\\OllamaIntegrationApp\\ollamalog\\logregister.log",
+              "RelativeDocumentMoniker": "ollamalog\\logregister.log",
+              "ToolTip": "D:\\learnDotNet8\\OllamaIntegrationApp\\ollamalog\\logregister.log",
+              "RelativeToolTip": "ollamalog\\logregister.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T10:40:04.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

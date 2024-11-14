@@ -1,0 +1,35 @@
+11/14/2024 5:36:32 PM: Sending embedding request to http://localhost:11434/api/embeddings with text: hello
+11/14/2024 5:37:04 PM: Embedding response received successfully
+11/14/2024 5:37:04 PM: Retrieved embeddings for text: hello
+11/14/2024 5:37:11 PM: Sending chat request to http://localhost:11434/api/generate with prompt: Hello
+11/14/2024 5:39:02 PM: Chat response received successfully
+11/14/2024 5:39:02 PM: Received chat response for prompt: Hello
+11/14/2024 5:39:02 PM: Chat history saved.
+11/14/2024 5:46:39 PM: Sending embedding request to http://localhost:11434/api/embeddings with text: hello
+11/14/2024 5:46:51 PM: Embedding response received successfully
+11/14/2024 5:46:51 PM: Retrieved embeddings for text: hello
+11/14/2024 5:47:19 PM: Sending chat request to http://localhost:11434/api/generate with prompt: hello, I need your assistance.
+11/14/2024 5:49:02 PM: Chat response received successfully
+11/14/2024 5:49:02 PM: Received chat response for prompt: hello, I need your assistance.
+11/14/2024 5:49:02 PM: Chat history saved.
+11/14/2024 5:50:22 PM: Sending embedding request to http://localhost:11434/api/embeddings with text: Why does the rainbow occur after the rain is stopping?
+11/14/2024 5:50:37 PM: Embedding response received successfully
+11/14/2024 5:50:37 PM: Retrieved embeddings for text: Why does the rainbow occur after the rain is stopping?
+11/14/2024 5:50:46 PM: Sending chat request to http://localhost:11434/api/generate with prompt: Why does the rainbow occur after the rain is stopping?
+11/14/2024 5:56:46 PM: Chat response received successfully
+11/14/2024 5:56:46 PM: Received chat response for prompt: Why does the rainbow occur after the rain is stopping?
+11/14/2024 5:56:46 PM: Chat history saved.
+11/14/2024 6:04:21 PM: Sending embedding request to http://localhost:11434/api/embeddings with text: Why does the rainbow occur after the rain is stopping?
+11/14/2024 6:04:31 PM: Embedding response received successfully
+11/14/2024 6:04:31 PM: Retrieved embeddings for text: Why does the rainbow occur after the rain is stopping?
+11/14/2024 6:04:43 PM: Sending chat request to http://localhost:11434/api/generate with prompt: Why does the rainbow occur after the rain is stopping?
+11/14/2024 6:09:06 PM: Chat response received successfully
+11/14/2024 6:09:06 PM: Received chat response for prompt: Why does the rainbow occur after the rain is stopping?
+11/14/2024 6:09:06 PM: Chat history saved.
+11/14/2024 6:16:24 PM: Sending embedding request to http://localhost:11434/api/embeddings with text: What is the name of planet 9 in the milky way galaxy?
+11/14/2024 6:16:46 PM: Embedding response received successfully
+11/14/2024 6:16:46 PM: Retrieved embeddings for text: What is the name of planet 9 in the milky way galaxy?
+11/14/2024 6:18:20 PM: Sending chat request to http://localhost:11434/api/generate with prompt: What is the name of planet 9 in the milky way galaxy?
+11/14/2024 6:21:04 PM: Chat response received successfully
+11/14/2024 6:21:05 PM: Received chat response for prompt: What is the name of planet 9 in the milky way galaxy?
+11/14/2024 6:21:05 PM: Chat history saved.

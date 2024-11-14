@@ -1,0 +1,17 @@
+D:\learndotnet8\OllamaIntegrationApp\bin\Debug\net8.0\OllamaIntegrationApp.exe
+D:\learndotnet8\OllamaIntegrationApp\bin\Debug\net8.0\OllamaIntegrationApp.deps.json
+D:\learndotnet8\OllamaIntegrationApp\bin\Debug\net8.0\OllamaIntegrationApp.runtimeconfig.json
+D:\learndotnet8\OllamaIntegrationApp\bin\Debug\net8.0\OllamaIntegrationApp.dll
+D:\learndotnet8\OllamaIntegrationApp\bin\Debug\net8.0\OllamaIntegrationApp.pdb
+D:\learndotnet8\OllamaIntegrationApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\OllamaIntegrationApp.csproj.AssemblyReference.cache
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\OllamaIntegrationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\OllamaIntegrationApp.AssemblyInfoInputs.cache
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\OllamaIntegrationApp.AssemblyInfo.cs
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\OllamaIntegrationApp.csproj.CoreCompileInputs.cache
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\OllamaIn.FAE18280.Up2Date
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\OllamaIntegrationApp.dll
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\refint\OllamaIntegrationApp.dll
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\OllamaIntegrationApp.pdb
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\OllamaIntegrationApp.genruntimeconfig.cache
+D:\learndotnet8\OllamaIntegrationApp\obj\Debug\net8.0\ref\OllamaIntegrationApp.dll

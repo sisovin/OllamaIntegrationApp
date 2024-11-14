@@ -1,0 +1,21 @@
+11/14/2024 3:36:04 PM: Sending embedding request to http://localhost:11434/api/embeddings with text: Hello
+11/14/2024 3:36:24 PM: Embedding response received successfully
+11/14/2024 3:36:50 PM: Sending chat request to http://localhost:11434/api/generate with prompt: Hello, CodeBot
+11/14/2024 3:45:35 PM: Sending embedding request to http://localhost:11434/api/embeddings with text: Hello
+11/14/2024 3:46:10 PM: Embedding response received successfully
+11/14/2024 3:46:10 PM: Retrieved embeddings for text: Hello
+11/14/2024 3:46:23 PM: Sending chat request to http://localhost:11434/api/generate with prompt: Hello, CodeBot
+11/14/2024 3:54:52 PM: Sending embedding request to http://localhost:11434/api/embeddings with text: hello
+11/14/2024 3:55:15 PM: Embedding response received successfully
+11/14/2024 3:55:15 PM: Retrieved embeddings for text: hello
+11/14/2024 3:55:23 PM: Sending chat request to http://localhost:11434/api/generate with prompt: Hello
+11/14/2024 3:58:18 PM: Chat response received successfully
+11/14/2024 3:58:18 PM: Received chat response for prompt: Hello
+11/14/2024 3:58:18 PM: Chat history saved.
+11/14/2024 4:07:22 PM: Sending embedding request to http://localhost:11434/api/embeddings with text: Hello
+11/14/2024 4:07:32 PM: Embedding response received successfully
+11/14/2024 4:07:32 PM: Retrieved embeddings for text: Hello
+11/14/2024 4:07:41 PM: Sending chat request to http://localhost:11434/api/generate with prompt: Hello
+11/14/2024 4:14:13 PM: Chat response received successfully
+11/14/2024 4:14:13 PM: Received chat response for prompt: Hello
+11/14/2024 4:14:13 PM: Chat history saved.
